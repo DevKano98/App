@@ -1,0 +1,43 @@
+# Built application packages and APKs
+*.apk
+*.ap_
+*.aab
+*.dex
+apk_*
+*.zip
+
+# Gradle build cache & intermediate files
+.gradle/
+.kotlin/
+build/
+app/build/
+**/build/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Android Studio & IDE files
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Local configuration & credentials
+local.properties
+.env
+.env.local
+*.jks
+*.keystore
+debug.keystore
+google-services.json
+
+# OS generated files
+.DS_Store
+Thumbs.db

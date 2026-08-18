@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_description">Detects when blocked apps are opened during active focus sessions to redirect back to focus mode. Only foreground package names are inspected. No keystrokes, personal data, or on-screen contents are read.</string>
+</resources>
